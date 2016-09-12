@@ -13,4 +13,6 @@ source PATH_TO/hapi-setup-scripts/hapi-clean.sh
 
 At this point simply resource your .bashrc or .bash_profile
 
-```$ source ~/.bash_profile```
+```
+$ source ~/.bash_profile
+```
