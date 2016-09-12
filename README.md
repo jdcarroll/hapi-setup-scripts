@@ -1,6 +1,13 @@
 # hapi-setup-scripts
 Full Stack Deployment scripts for Hapi js
 
+## Frameworks and libraries built in
+
+* Hapi Js
+* Angular
+* Inert
+* Good Console
+
 ## Installation
 
 Make sure that you add the following to your .bashrc or .bash_profile to activate functions.
